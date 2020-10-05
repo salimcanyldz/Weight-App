@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeightApp</string>
+    <string name="questionText">Hangi gezegende kaç kilosun?</string>
+    <string name="UserInput">Kilonuz</string>
+    <string name="calcButton">Hesapla</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="venus">Venus</string>
+    <string name="mars">Mars</string>
+</resources>
